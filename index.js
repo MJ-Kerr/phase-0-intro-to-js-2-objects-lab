@@ -1,1 +1,5 @@
-// Write your solution in this file!
+const employee = ['name', "streetAddress"]
+
+function updateEmployeeWithKeyAndValue(employee, key, value) {
+
+}
